@@ -1,0 +1,7 @@
+.venv/
+*.DS_Store
+__pycache__/
+config.py
+*.pickle
+*.sqlite3
+*.log
